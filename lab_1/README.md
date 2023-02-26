@@ -1,2 +1,2 @@
-# modeling_nano_structures_labs
-The storage of labs for the subject - "Modeling of micro- and nano-structures".
+## Lab 1
+Lab 1 - (the description of the lab: the task, theory, results)
