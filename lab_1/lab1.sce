@@ -10,4 +10,6 @@ end
 f = scf();
 plot3d1(x1,x2,y);
 f.color_map = jetcolormap(32);
-
+xlabel("X1 argument")
+ylabel("X2 argument")
+zlabel("Function")
