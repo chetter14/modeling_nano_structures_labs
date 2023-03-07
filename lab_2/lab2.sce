@@ -9,8 +9,8 @@ R = (k1 - k2)^2 ./ (k1 + k2)^2 ;
 T = 4*k1.*k2 ./ (k1 + k2)^2 ;
 
 plot(E, T);
-xlabel("энергия электрона, эВ")
-ylabel("Вероятность, отн. ед")
+xlabel("Electron energy, ev")
+ylabel("Probability")
 plot(E, R,"red");
 o = legend(['T';'R']);
 xgrid;
