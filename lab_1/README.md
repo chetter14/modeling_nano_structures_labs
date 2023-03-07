@@ -14,4 +14,5 @@ x2 = linspace(-3,2,100)
 and use them in formula to calculate the function values.
 
 **Result**:
+
 ![](images/Result.png)
