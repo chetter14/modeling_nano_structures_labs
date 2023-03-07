@@ -1,6 +1,6 @@
 ## Lab 1
----
-**Task** : to make a graph of function 
+
+**Task** : to make a colored graph of function 
 
 > y = cos^2(x1) * cos^2(x2) 
 
@@ -14,4 +14,4 @@ x2 = linspace(-3,2,100)
 and use them in formula to calculate the function values.
 
 **Result**:
-
+![](images/Result.png)
